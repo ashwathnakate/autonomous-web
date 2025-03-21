@@ -63,12 +63,17 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-### 5️⃣ Tools Integration:
-Search Tool: Uses Tavily for web search with a limit of one result.
-Python REPL Tool: Allows execution of Python code and returns results.
-LLM Agent:
+
+---
+
+### 5️⃣ Tools Integration: 
+
+1. Search Tool: Uses Tavily for web search with a limit of one result.
+2. Python REPL Tool: Allows execution of Python code and returns results.
+3. LLM Agent:
 Initializes a Groq-based LLM (Llama 3.3) with a temperature of 0.7 and a max token limit of 1024.
 The agent is capable of using tools like search and Python execution.
+
 ---
 
 ## 🌈 **Usage**  
