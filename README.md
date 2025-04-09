@@ -84,6 +84,13 @@ The agent is capable of using tools like search and Python execution.
 
 ---
 
+## 🖼 Screenshots
+![1](https://github.com/user-attachments/assets/c41a9cd8-6d11-4f29-90a6-e6d8ee55c7b2)
+
+![2](https://github.com/user-attachments/assets/4c792781-3e6b-4730-9ae0-e5aa38b3d63f)
+
+---
+
 ## 💡 **Pro Tips**  
 ✨ Use high-quality CSV files for better insights.  
 ✨ Ask specific questions for more accurate responses.  
